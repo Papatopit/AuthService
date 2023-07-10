@@ -22,6 +22,7 @@ public class UserDto
     private String firstName;
     private String lastName;
     private String email;
+    private String birthday;
     private String password;
     private Set<RoleDto> role;
 
